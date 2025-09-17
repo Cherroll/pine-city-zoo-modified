@@ -1,2 +1,2 @@
-Pine cuty zoo map 
-The sire is live at https://cherroll.github.io/pine-city-zoo-modified/
+Pine City  Zoo Map 
+The site  is live at https://cherroll.github.io/pine-city-zoo-modified/
